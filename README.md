@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taotentoan
 - 👀 I’m interested in your mom
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on sometghing
+- 💞️ I’m looking to collaborate on something
 - 📫 How to reach me by alient
 
 <!---
